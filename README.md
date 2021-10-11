@@ -1,2 +1,2 @@
-# Redes-de-Computadores
-Aqui estão minhas anotações e publicações relacionadas a redes de computadores
+# Outros Tópicos
+Aqui estão minhas anotações e publicações relacionadas ao estudo de temas importantes da área de tecnologia.
